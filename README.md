@@ -53,7 +53,7 @@ The system consists of three specialized agents:
 3. **Set up your API key**
    ```bash
    # Copy the example environment file
-   copy env_example.txt .env
+   copy .env.example .env
    
    # Edit .env and add your API key
    # GOOGLE_API_KEY=your_actual_api_key_here
